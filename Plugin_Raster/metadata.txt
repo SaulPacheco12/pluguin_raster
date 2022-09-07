@@ -1,0 +1,7 @@
+[general]
+name = raster
+qgisMiniumVersion= 3.0
+description= Plugin de ejemplo de tipo raster
+version = 1.0
+Author = SaúlPm
+email = psaul1325@gmail.com
