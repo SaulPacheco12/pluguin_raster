@@ -1,0 +1,15 @@
+[general]
+name=raster
+description=Plugin de ejemplo de tipo raster
+about=ejemplo de raster
+category=web
+version=0.1.0
+qgisMinimumVersion=3.0
+author=Efren Garcia Reyes
+email=egarciar021@alumno.uaemex.mx
+tags=web,catalog,service,metadata,csw
+homepage=http://insigeo.com.mx/
+tracker= http://insigeo.com.mx/
+experimental=False
+deprecated=False
+changelog=Version 0.3.5 (2019-12-16)
